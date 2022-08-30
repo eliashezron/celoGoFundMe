@@ -1,6 +1,6 @@
 # Celo Marketplace Dapp
 
-![](img/fundme.png)
+![](img/fundme.jpg)
 
 ## Description
 
