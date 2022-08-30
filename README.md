@@ -38,7 +38,7 @@ The concept here is the ability to be able to keep track of the funders and once
 
 ## Live Demo
 
-[GoFundMe](https://eliashezron.github.io//)
+Checkout the Live Demo Of the Project Hear [GoFundMe](https://eliashezron.github.io/celoGoFundMe/)
 
 ## Usage
 
